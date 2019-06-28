@@ -1,12 +1,23 @@
 # DiceRoller
 Project for the discipline SSC0180 - Electronics for Computer Sciences, taught by the teacher Eduardo do Valle Simões
 
+
 Group's Integrants:
 Guilherme Amaral Hiromoto - 11218959
+
+
 João Victor de Araujo Lima - 9874742
+
+
 Murilo Franchi - 9790760
+
+
 Paulo Matana da Rocha - 10892676
+
+
 Vinicius Shimizu - 10348038
+
+
 
 This project consist iin a dice roller, where you can choose between the dice with 4,6,8,10,12,20 sides.
 The button with the green LED choose the die and the button with the red LED rolls it.
