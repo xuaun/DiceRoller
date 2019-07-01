@@ -24,5 +24,6 @@ The button with the green LED choose the die and the button with the red LED rol
 To represent the numbers greater than 10 in the 7-segment display, we used the dot to represent '+10'. With the exception of 10, that is represented by the number 0, and 20 that is 0 dot.
 So 1 to 9 is simple, and 10 is 0, 11 is dot, 12 is 2dot, and so on until 20 which is 0dot.
 
-![Alt Text] (https://github.com/mrlFranchi/DiceRoller/blob/master/Circuito%20TopView.jpeg)
-![Alt Text] (https://github.com/mrlFranchi/DiceRoller/blob/master/TinkerCad.png)
+![Alt Text](https://github.com/mrlFranchi/DiceRoller/blob/master/Circuito%20TopView.jpeg)
+![Alt Text](https://github.com/mrlFranchi/DiceRoller/blob/master/TinkerCad.png)
+![TinkerCad link](https://www.tinkercad.com/things/3TDA5EGVGro)
